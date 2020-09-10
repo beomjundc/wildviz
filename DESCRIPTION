@@ -17,7 +17,7 @@ License: GPL-2
 LazyData: true
 Imports: DBI, dplyr, httr, jsonlite, lubridate, purrr, rnoaa, RSQLite, shiny, tibble, tidyr, shinythemes, ggplot2, plotly, ggthemes
 Encoding: UTF-8
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.1
 Depends: R (>= 2.10)
 Suggests: knitr, rmarkdown, testthat
 VignetteBuilder: knitr

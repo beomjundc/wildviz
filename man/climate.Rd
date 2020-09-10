@@ -4,7 +4,8 @@
 \name{climate}
 \alias{climate}
 \title{Daily weather summaries for California from 2001 - 2015}
-\format{A dataframe with 317644 rows and 7 variables:
+\format{
+A dataframe with 317644 rows and 7 variables:
 \describe{
   \item{fips}{Five-digit code combining the state and county codes from the FIPS publication 6-4 for counties}
   \item{date}{Date on which the climate measures were recorded}
@@ -13,7 +14,8 @@
   \item{snwd}{snow depth, in	mm}
   \item{tmax}{maximum temperature, in degrees Celsius}
   \item{tmin}{minumum temperature, in degrees Celsius}
-}}
+}
+}
 \source{
 \url{https://www1.ncdc.noaa.gov/pub/data/cdo/documentation/GHCND_documentation.pdf}
 }
